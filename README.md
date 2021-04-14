@@ -1,2 +1,2 @@
 # SpikeChallenge
-PrediccionInsumosBasicos
+Predicción de Insumos Básicos
