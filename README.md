@@ -21,6 +21,7 @@ The datasets used are the following :
 - precipitaciones.csv 
 - banco_central.csv
 - precio_leche.csv 
+- ipc_data.csv
 
 
 ** Results **
