@@ -2,7 +2,7 @@
 
 This repository uses data analytics and recurrent neural networks to predict the price of Milk in Chile. 
 
-** Required Packages **
+**Required Packages**
 
     Python 3.8.5
     tensorflow==2.3.0
@@ -14,7 +14,7 @@ This repository uses data analytics and recurrent neural networks to predict the
     seaborn == 0.11.0
     scipy == 1.5.2
 
-** Datasets **
+**Datasets**
 
 The datasets used are the following : 
 
@@ -24,7 +24,7 @@ The datasets used are the following :
 - ipc_data.csv
 
 
-** Results **
+**Results**
 
 Test set Results: 
 
@@ -36,7 +36,7 @@ Test set Results:
 
 ![alt text](https://github.com/danisha20/SpikeChallenge/blob/main/forecast.png)
 
-** Next Steps **
+**Next Steps**
 
 - Fine Tune model hyperparameters 
 - Evaluation with additional features
@@ -44,7 +44,7 @@ Test set Results:
 - Smoothing the data 
 - Comparing with traditional time series methods. 
 
-** References **
+**References**
 
 - Mosheim, R. (2012). A Quarterly Econometric Model for Short-Term Forecasting of the US Dairy Industry (No. 1488-2016-123440).
 
