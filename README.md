@@ -18,8 +18,8 @@ This repository uses data analytics and recurrent neural networks to predict the
 
 The datasets used are the following : 
 
-- precipitaciones.csv : Contains monthly data for average precipitation(mm) values for different regions in Chile. 
-- banco_central.csv : containsdifferent macroeconomic variables from Chile. 
+- precipitaciones.csv : contains monthly data for average precipitation(mm) values for different regions in Chile. 
+- banco_central.csv : contains different macroeconomic variables from Chile. 
 - precio_leche.csv : contains the price of milk in Chile. 
 - ipc_data.csv : contains data regarding the CPI of Chile.
 
