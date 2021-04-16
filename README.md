@@ -27,6 +27,10 @@ The datasets used are the following :
 ** Results **
 
 
+![alt text](https://github.com/danisha20/SpikeChallenge/blob/main/lossfunc_epochs.png)
+
+![alt text](https://github.com/danisha20/SpikeChallenge/blob/main/forecast.png)
+
 ** Next Steps **
 - Fine Tune model hyperparameters 
 
