@@ -26,16 +26,23 @@ The datasets used are the following :
 
 ** Results **
 
+Test set Results: 
+
+MAE: 11.2841
+RMSE: 14.77
+AIC:  316.34
 
 ![alt text](https://github.com/danisha20/SpikeChallenge/blob/main/lossfunc_epochs.png)
 
 ![alt text](https://github.com/danisha20/SpikeChallenge/blob/main/forecast.png)
 
 ** Next Steps **
+
 - Fine Tune model hyperparameters 
-
-
-
+- Evaluation with additional features
+- Exploring dimensional redction techniques
+- Smoothing the data 
+- Comparing with traditional time series methods. 
 
 ** References **
 
