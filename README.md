@@ -28,9 +28,9 @@ The datasets used are the following :
 
 Test set Results: 
 
-MAE: 11.2841
-RMSE: 14.77
-AIC:  316.34
+- MAE: 11.2841
+- RMSE: 14.77
+- AIC:  316.34
 
 ![alt text](https://github.com/danisha20/SpikeChallenge/blob/main/lossfunc_epochs.png)
 
