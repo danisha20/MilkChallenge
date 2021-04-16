@@ -40,7 +40,7 @@ Test set Results:
 
 - Fine Tune model hyperparameters 
 - Evaluation with additional features
-- Exploring dimensional redction techniques
+- Exploring dimensional reduction techniques
 - Smoothing the data 
 - Comparing with traditional time series methods. 
 
