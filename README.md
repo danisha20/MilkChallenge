@@ -1,4 +1,4 @@
-# Prediction of Basic Supplies
+# Time-Series Prediction of Basic Supplies
 
 This repository uses data analytics and recurrent neural networks to predict the price of Milk in Chile. 
 
